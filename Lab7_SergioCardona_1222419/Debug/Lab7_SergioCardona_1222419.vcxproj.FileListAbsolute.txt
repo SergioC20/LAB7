@@ -1,0 +1,5 @@
+C:\Users\chejo\Desktop\Sergio U\4to semestre (2do ciclo 2021)\Progra avanzada Lab\Trabajos\Lab7_SergioCardona_1222419\Lab7_SergioCardona_1222419\Debug\Lab7_SergioCardona_1222419.vcxproj.AssemblyReference.cache
+C:\Users\chejo\Desktop\Sergio U\4to semestre (2do ciclo 2021)\Progra avanzada Lab\Trabajos\Lab7_SergioCardona_1222419\Lab7_SergioCardona_1222419\Debug\Lab7SergioCardona1222419.MyForm.resources
+C:\Users\chejo\Desktop\Sergio U\4to semestre (2do ciclo 2021)\Progra avanzada Lab\Trabajos\Lab7_SergioCardona_1222419\Lab7_SergioCardona_1222419\Debug\Lab7SergioCardona1222419.Problema 1.resources
+C:\Users\chejo\Desktop\Sergio U\4to semestre (2do ciclo 2021)\Progra avanzada Lab\Trabajos\Lab7_SergioCardona_1222419\Lab7_SergioCardona_1222419\Debug\Lab7_SergioCardona_1222419.vcxproj.GenerateResource.cache
+C:\Users\chejo\Desktop\Sergio U\4to semestre (2do ciclo 2021)\Progra avanzada Lab\Trabajos\Lab7_SergioCardona_1222419\Lab7_SergioCardona_1222419\Debug\Lab7SergioCardona1222419.Problema 2.resources
